@@ -1,0 +1,963 @@
+This data is last updated at - 
+Date - 2021-05-07
+Time - 02:06:58.071
+
+
+Total Cases Worldwide -
+Confirmed - 155153380
+Recovered - 91789258
+Deaths - 3243142
+
+
+These the cases countrywise - 
+
+1. Country - Afghanistan
+   Confirmed - 61162
+   Recovered - 53961
+   Deaths - 2664
+
+2. Country - Albania
+   Confirmed - 131510
+   Recovered - 114362
+   Deaths - 2406
+
+3. Country - Algeria
+   Confirmed - 123473
+   Recovered - 86007
+   Deaths - 3307
+
+4. Country - Andorra
+   Confirmed - 13363
+   Recovered - 12900
+   Deaths - 127
+
+5. Country - Angola
+   Confirmed - 27921
+   Recovered - 24503
+   Deaths - 622
+
+6. Country - Antigua and Barbuda
+   Confirmed - 1232
+   Recovered - 1014
+   Deaths - 32
+
+7. Country - Argentina
+   Confirmed - 3095582
+   Recovered - 2757230
+   Deaths - 66263
+
+8. Country - Armenia
+   Confirmed - 218325
+   Recovered - 202273
+   Deaths - 4192
+
+9. Country - Australia
+   Confirmed - 29884
+   Recovered - 23377
+   Deaths - 910
+
+10. Country - Austria
+    Confirmed - 627484
+    Recovered - 597922
+    Deaths - 10333
+
+11. Country - Azerbaijan
+    Confirmed - 324685
+    Recovered - 301006
+    Deaths - 4635
+
+12. Country - Bahamas
+    Confirmed - 10711
+    Recovered - 9733
+    Deaths - 211
+
+13. Country - Bahrain
+    Confirmed - 184697
+    Recovered - 172006
+    Deaths - 670
+
+14. Country - Bangladesh
+    Confirmed - 769160
+    Recovered - 702163
+    Deaths - 11796
+
+15. Country - Barbados
+    Confirmed - 3929
+    Recovered - 3831
+    Deaths - 45
+
+16. Country - Belarus
+    Confirmed - 364951
+    Recovered - 355531
+    Deaths - 2602
+
+17. Country - Belgium
+    Confirmed - 1003746
+    Recovered - 0
+    Deaths - 24406
+
+18. Country - Belize
+    Confirmed - 12682
+    Recovered - 12273
+    Deaths - 323
+
+19. Country - Benin
+    Confirmed - 7884
+    Recovered - 7652
+    Deaths - 100
+
+20. Country - Bhutan
+    Confirmed - 1161
+    Recovered - 1028
+    Deaths - 1
+
+21. Country - Bolivia
+    Confirmed - 312407
+    Recovered - 257277
+    Deaths - 13123
+
+22. Country - Bosnia and Herzegovina
+    Confirmed - 200353
+    Recovered - 163445
+    Deaths - 8762
+
+23. Country - Botswana
+    Confirmed - 48417
+    Recovered - 46226
+    Deaths - 734
+
+24. Country - Brazil
+    Confirmed - 14930183
+    Recovered - 13254660
+    Deaths - 414399
+
+25. Country - Brunei Darussalam
+    Confirmed - 228
+    Recovered - 218
+    Deaths - 3
+
+26. Country - Bulgaria
+    Confirmed - 408372
+    Recovered - 345489
+    Deaths - 16800
+
+27. Country - Burkina Faso
+    Confirmed - 13353
+    Recovered - 13111
+    Deaths - 162
+
+28. Country - Burundi
+    Confirmed - 4093
+    Recovered - 773
+    Deaths - 6
+
+29. Country - Cambodia
+    Confirmed - 17621
+    Recovered - 6843
+    Deaths - 114
+
+30. Country - Cameroon
+    Confirmed - 74946
+    Recovered - 35261
+    Deaths - 1152
+
+31. Country - Canada
+    Confirmed - 1065299
+    Recovered - 1164426
+    Deaths - 22334
+
+32. Country - Cape Verde
+    Confirmed - 25526
+    Recovered - 22105
+    Deaths - 230
+
+33. Country - Central African Republic
+    Confirmed - 6674
+    Recovered - 5112
+    Deaths - 93
+
+34. Country - Chad
+    Confirmed - 4854
+    Recovered - 4612
+    Deaths - 170
+
+35. Country - Chile
+    Confirmed - 1222949
+    Recovered - 1160945
+    Deaths - 26726
+
+36. Country - China
+    Confirmed - 102571
+    Recovered - 97280
+    Deaths - 4846
+
+37. Country - Colombia
+    Confirmed - 2934611
+    Recovered - 2754940
+    Deaths - 76015
+
+38. Country - Comoros
+    Confirmed - 3847
+    Recovered - 3681
+    Deaths - 146
+
+39. Country - Congo (Brazzaville)
+    Confirmed - 11016
+    Recovered - 8208
+    Deaths - 147
+
+40. Country - Congo (Kinshasa)
+    Confirmed - 30201
+    Recovered - 26319
+    Deaths - 770
+
+41. Country - Costa Rica
+    Confirmed - 263094
+    Recovered - 211043
+    Deaths - 3341
+
+42. Country - Croatia
+    Confirmed - 341052
+    Recovered - 321755
+    Deaths - 7355
+
+43. Country - Cuba
+    Confirmed - 112714
+    Recovered - 106409
+    Deaths - 701
+
+44. Country - Cyprus
+    Confirmed - 68442
+    Recovered - 39061
+    Deaths - 328
+
+45. Country - Czech Republic
+    Confirmed - 1641120
+    Recovered - 1569862
+    Deaths - 29521
+
+46. Country - Côte d'Ivoire
+    Confirmed - 46315
+    Recovered - 45764
+    Deaths - 291
+
+47. Country - Denmark
+    Confirmed - 256482
+    Recovered - 243718
+    Deaths - 2493
+
+48. Country - Djibouti
+    Confirmed - 11307
+    Recovered - 11006
+    Deaths - 148
+
+49. Country - Dominica
+    Confirmed - 174
+    Recovered - 172
+    Deaths - 0
+
+50. Country - Dominican Republic
+    Confirmed - 269184
+    Recovered - 230033
+    Deaths - 3514
+
+51. Country - Ecuador
+    Confirmed - 395327
+    Recovered - 329582
+    Deaths - 19018
+
+52. Country - Egypt
+    Confirmed - 234015
+    Recovered - 175117
+    Deaths - 13714
+
+53. Country - El Salvador
+    Confirmed - 69997
+    Recovered - 65531
+    Deaths - 2143
+
+54. Country - Equatorial Guinea
+    Confirmed - 7694
+    Recovered - 7279
+    Deaths - 112
+
+55. Country - Eritrea
+    Confirmed - 3734
+    Recovered - 3602
+    Deaths - 12
+
+56. Country - Estonia
+    Confirmed - 124147
+    Recovered - 114618
+    Deaths - 1187
+
+57. Country - Ethiopia
+    Confirmed - 260802
+    Recovered - 205458
+    Deaths - 3822
+
+58. Country - Fiji
+    Confirmed - 129
+    Recovered - 84
+    Deaths - 2
+
+59. Country - Finland
+    Confirmed - 88078
+    Recovered - 46000
+    Deaths - 919
+
+60. Country - France
+    Confirmed - 5767541
+    Recovered - 366782
+    Deaths - 105792
+
+61. Country - Gabon
+    Confirmed - 23201
+    Recovered - 19740
+    Deaths - 140
+
+62. Country - Gambia
+    Confirmed - 5925
+    Recovered - 5547
+    Deaths - 175
+
+63. Country - Georgia
+    Confirmed - 317719
+    Recovered - 297676
+    Deaths - 4227
+
+64. Country - Germany
+    Confirmed - 3484755
+    Recovered - 3118660
+    Deaths - 84141
+
+65. Country - Ghana
+    Confirmed - 92828
+    Recovered - 90462
+    Deaths - 783
+
+66. Country - Greece
+    Confirmed - 355445
+    Recovered - 93764
+    Deaths - 10847
+
+67. Country - Grenada
+    Confirmed - 160
+    Recovered - 158
+    Deaths - 1
+
+68. Country - Guatemala
+    Confirmed - 232439
+    Recovered - 210369
+    Deaths - 7677
+
+69. Country - Guinea
+    Confirmed - 22505
+    Recovered - 20078
+    Deaths - 148
+
+70. Country - Guinea-Bissau
+    Confirmed - 3738
+    Recovered - 3373
+    Deaths - 67
+
+71. Country - Guyana
+    Confirmed - 13957
+    Recovered - 11787
+    Deaths - 310
+
+72. Country - Haiti
+    Confirmed - 13164
+    Recovered - 12154
+    Deaths - 263
+
+73. Country - Holy See (Vatican City State)
+    Confirmed - 27
+    Recovered - 15
+    Deaths - 0
+
+74. Country - Honduras
+    Confirmed - 216964
+    Recovered - 79925
+    Deaths - 5439
+
+75. Country - Hungary
+    Confirmed - 787647
+    Recovered - 546246
+    Deaths - 28297
+
+76. Country - Iceland
+    Confirmed - 6500
+    Recovered - 6332
+    Deaths - 29
+
+77. Country - India
+    Confirmed - 21077410
+    Recovered - 17280844
+    Deaths - 230168
+
+78. Country - Indonesia
+    Confirmed - 1697305
+    Recovered - 1552532
+    Deaths - 46496
+
+79. Country - Iran, Islamic Republic of
+    Confirmed - 2610018
+    Recovered - 2057692
+    Deaths - 73906
+
+80. Country - Iraq
+    Confirmed - 1098187
+    Recovered - 986134
+    Deaths - 15673
+
+81. Country - Ireland
+    Confirmed - 251474
+    Recovered - 23364
+    Deaths - 4921
+
+82. Country - Israel
+    Confirmed - 838828
+    Recovered - 831279
+    Deaths - 6374
+
+83. Country - Italy
+    Confirmed - 4070400
+    Recovered - 3541266
+    Deaths - 122005
+
+84. Country - Jamaica
+    Confirmed - 46338
+    Recovered - 21893
+    Deaths - 798
+
+85. Country - Japan
+    Confirmed - 617890
+    Recovered - 538790
+    Deaths - 10501
+
+86. Country - Jordan
+    Confirmed - 717930
+    Recovered - 698201
+    Deaths - 9014
+
+87. Country - Kazakhstan
+    Confirmed - 388111
+    Recovered - 340202
+    Deaths - 3363
+
+88. Country - Kenya
+    Confirmed - 162098
+    Recovered - 110480
+    Deaths - 2850
+
+89. Country - Korea (South)
+    Confirmed - 125519
+    Recovered - 115491
+    Deaths - 1851
+
+90. Country - Kuwait
+    Confirmed - 281772
+    Recovered - 265530
+    Deaths - 1621
+
+91. Country - Kyrgyzstan
+    Confirmed - 97278
+    Recovered - 90611
+    Deaths - 1640
+
+92. Country - Lao PDR
+    Confirmed - 1177
+    Recovered - 101
+    Deaths - 0
+
+93. Country - Latvia
+    Confirmed - 121509
+    Recovered - 110904
+    Deaths - 2178
+
+94. Country - Lebanon
+    Confirmed - 531234
+    Recovered - 475383
+    Deaths - 7415
+
+95. Country - Lesotho
+    Confirmed - 10749
+    Recovered - 6427
+    Deaths - 319
+
+96. Country - Liberia
+    Confirmed - 2113
+    Recovered - 1959
+    Deaths - 85
+
+97. Country - Libya
+    Confirmed - 179193
+    Recovered - 165504
+    Deaths - 3059
+
+98. Country - Liechtenstein
+    Confirmed - 2961
+    Recovered - 2843
+    Deaths - 57
+
+99. Country - Lithuania
+    Confirmed - 254091
+    Recovered - 228696
+    Deaths - 4000
+
+100. Country - Luxembourg
+     Confirmed - 68020
+     Recovered - 64727
+     Deaths - 801
+
+101. Country - Macedonia, Republic of
+     Confirmed - 153461
+     Recovered - 136545
+     Deaths - 5042
+
+102. Country - Madagascar
+     Confirmed - 38337
+     Recovered - 34727
+     Deaths - 695
+
+103. Country - Malawi
+     Confirmed - 34151
+     Recovered - 32135
+     Deaths - 1152
+
+104. Country - Malaysia
+     Confirmed - 427927
+     Recovered - 392555
+     Deaths - 1610
+
+105. Country - Maldives
+     Confirmed - 33368
+     Recovered - 25675
+     Deaths - 77
+
+106. Country - Mali
+     Confirmed - 14029
+     Recovered - 8878
+     Deaths - 493
+
+107. Country - Malta
+     Confirmed - 30420
+     Recovered - 29744
+     Deaths - 416
+
+108. Country - Marshall Islands
+     Confirmed - 4
+     Recovered - 4
+     Deaths - 0
+
+109. Country - Mauritania
+     Confirmed - 18576
+     Recovered - 17817
+     Deaths - 456
+
+110. Country - Mauritius
+     Confirmed - 1216
+     Recovered - 1111
+     Deaths - 17
+
+111. Country - Mexico
+     Confirmed - 2355985
+     Recovered - 1877347
+     Deaths - 218007
+
+112. Country - Micronesia, Federated States of
+     Confirmed - 1
+     Recovered - 1
+     Deaths - 0
+
+113. Country - Moldova
+     Confirmed - 252153
+     Recovered - 242363
+     Deaths - 5912
+
+114. Country - Monaco
+     Confirmed - 2475
+     Recovered - 2397
+     Deaths - 32
+
+115. Country - Mongolia
+     Confirmed - 42464
+     Recovered - 27242
+     Deaths - 142
+
+116. Country - Montenegro
+     Confirmed - 98042
+     Recovered - 94495
+     Deaths - 1526
+
+117. Country - Morocco
+     Confirmed - 513016
+     Recovered - 499917
+     Deaths - 9049
+
+118. Country - Mozambique
+     Confirmed - 70108
+     Recovered - 67696
+     Deaths - 819
+
+119. Country - Myanmar
+     Confirmed - 142874
+     Recovered - 131999
+     Deaths - 3210
+
+120. Country - Namibia
+     Confirmed - 49460
+     Recovered - 46922
+     Deaths - 674
+
+121. Country - Nepal
+     Confirmed - 368580
+     Recovered - 292490
+     Deaths - 3529
+
+122. Country - Netherlands
+     Confirmed - 1531800
+     Recovered - 0
+     Deaths - 17245
+
+123. Country - New Zealand
+     Confirmed - 2633
+     Recovered - 2579
+     Deaths - 26
+
+124. Country - Nicaragua
+     Confirmed - 6989
+     Recovered - 4225
+     Deaths - 183
+
+125. Country - Niger
+     Confirmed - 5286
+     Recovered - 4870
+     Deaths - 192
+
+126. Country - Nigeria
+     Confirmed - 165301
+     Recovered - 155424
+     Deaths - 2065
+
+127. Country - Norway
+     Confirmed - 115411
+     Recovered - 17998
+     Deaths - 767
+
+128. Country - Oman
+     Confirmed - 199344
+     Recovered - 181696
+     Deaths - 2083
+
+129. Country - Pakistan
+     Confirmed - 841636
+     Recovered - 738727
+     Deaths - 18429
+
+130. Country - Palestinian Territory
+     Confirmed - 300387
+     Recovered - 281586
+     Deaths - 3326
+
+131. Country - Panama
+     Confirmed - 366364
+     Recovered - 356144
+     Deaths - 6255
+
+132. Country - Papua New Guinea
+     Confirmed - 11630
+     Recovered - 10312
+     Deaths - 121
+
+133. Country - Paraguay
+     Confirmed - 291540
+     Recovered - 241040
+     Deaths - 6883
+
+134. Country - Peru
+     Confirmed - 1818689
+     Recovered - 1766872
+     Deaths - 62674
+
+135. Country - Philippines
+     Confirmed - 1080172
+     Recovered - 999011
+     Deaths - 17991
+
+136. Country - Poland
+     Confirmed - 2818378
+     Recovered - 2546751
+     Deaths - 68993
+
+137. Country - Portugal
+     Confirmed - 838475
+     Recovered - 798952
+     Deaths - 16988
+
+138. Country - Qatar
+     Confirmed - 209470
+     Recovered - 198227
+     Deaths - 493
+
+139. Country - Republic of Kosovo
+     Confirmed - 105614
+     Recovered - 96452
+     Deaths - 2203
+
+140. Country - Romania
+     Confirmed - 1062527
+     Recovered - 1005623
+     Deaths - 28710
+
+141. Country - Russian Federation
+     Confirmed - 4792354
+     Recovered - 4413678
+     Deaths - 110022
+
+142. Country - Rwanda
+     Confirmed - 25486
+     Recovered - 23876
+     Deaths - 338
+
+143. Country - Saint Kitts and Nevis
+     Confirmed - 45
+     Recovered - 44
+     Deaths - 0
+
+144. Country - Saint Lucia
+     Confirmed - 4602
+     Recovered - 4415
+     Deaths - 75
+
+145. Country - Saint Vincent and Grenadines
+     Confirmed - 1889
+     Recovered - 1733
+     Deaths - 12
+
+146. Country - Samoa
+     Confirmed - 3
+     Recovered - 2
+     Deaths - 0
+
+147. Country - San Marino
+     Confirmed - 5067
+     Recovered - 4935
+     Deaths - 90
+
+148. Country - Sao Tome and Principe
+     Confirmed - 2317
+     Recovered - 2258
+     Deaths - 35
+
+149. Country - Saudi Arabia
+     Confirmed - 423406
+     Recovered - 406589
+     Deaths - 7032
+
+150. Country - Senegal
+     Confirmed - 40578
+     Recovered - 39285
+     Deaths - 1116
+
+151. Country - Serbia
+     Confirmed - 697241
+     Recovered - 0
+     Deaths - 6499
+
+152. Country - Seychelles
+     Confirmed - 6373
+     Recovered - 5277
+     Deaths - 28
+
+153. Country - Sierra Leone
+     Confirmed - 4068
+     Recovered - 3078
+     Deaths - 79
+
+154. Country - Singapore
+     Confirmed - 61286
+     Recovered - 60873
+     Deaths - 31
+
+155. Country - Slovakia
+     Confirmed - 384660
+     Recovered - 255300
+     Deaths - 11920
+
+156. Country - Slovenia
+     Confirmed - 244556
+     Recovered - 230602
+     Deaths - 4282
+
+157. Country - Solomon Islands
+     Confirmed - 20
+     Recovered - 20
+     Deaths - 0
+
+158. Country - Somalia
+     Confirmed - 14368
+     Recovered - 6152
+     Deaths - 745
+
+159. Country - South Africa
+     Confirmed - 1590370
+     Recovered - 1511905
+     Deaths - 54620
+
+160. Country - South Sudan
+     Confirmed - 10620
+     Recovered - 10312
+     Deaths - 115
+
+161. Country - Spain
+     Confirmed - 3551262
+     Recovered - 150376
+     Deaths - 78566
+
+162. Country - Sri Lanka
+     Confirmed - 119424
+     Recovered - 100885
+     Deaths - 734
+
+163. Country - Sudan
+     Confirmed - 34461
+     Recovered - 27247
+     Deaths - 2365
+
+164. Country - Suriname
+     Confirmed - 10816
+     Recovered - 9656
+     Deaths - 213
+
+165. Country - Swaziland
+     Confirmed - 18473
+     Recovered - 17768
+     Deaths - 671
+
+166. Country - Sweden
+     Confirmed - 995595
+     Recovered - 0
+     Deaths - 14151
+
+167. Country - Switzerland
+     Confirmed - 669067
+     Recovered - 317600
+     Deaths - 10695
+
+168. Country - Syrian Arab Republic (Syria)
+     Confirmed - 23191
+     Recovered - 17932
+     Deaths - 1631
+
+169. Country - Taiwan, Republic of China
+     Confirmed - 1173
+     Recovered - 1075
+     Deaths - 12
+
+170. Country - Tajikistan
+     Confirmed - 13308
+     Recovered - 13218
+     Deaths - 90
+
+171. Country - Tanzania, United Republic of
+     Confirmed - 509
+     Recovered - 183
+     Deaths - 21
+
+172. Country - Thailand
+     Confirmed - 76811
+     Recovered - 26873
+     Deaths - 336
+
+173. Country - Timor-Leste
+     Confirmed - 2870
+     Recovered - 1449
+     Deaths - 4
+
+174. Country - Togo
+     Confirmed - 13068
+     Recovered - 11385
+     Deaths - 123
+
+175. Country - Trinidad and Tobago
+     Confirmed - 12396
+     Recovered - 8969
+     Deaths - 191
+
+176. Country - Tunisia
+     Confirmed - 317010
+     Recovered - 272505
+     Deaths - 11208
+
+177. Country - Turkey
+     Confirmed - 4977982
+     Recovered - 4626799
+     Deaths - 42187
+
+178. Country - Uganda
+     Confirmed - 42152
+     Recovered - 41652
+     Deaths - 345
+
+179. Country - Ukraine
+     Confirmed - 2146121
+     Recovered - 1748230
+     Deaths - 46950
+
+180. Country - United Arab Emirates
+     Confirmed - 530944
+     Recovered - 511340
+     Deaths - 1604
+
+181. Country - United Kingdom
+     Confirmed - 4441644
+     Recovered - 14897
+     Deaths - 127830
+
+182. Country - United States of America
+     Confirmed - 32557444
+     Recovered - 0
+     Deaths - 579275
+
+183. Country - Uruguay
+     Confirmed - 213449
+     Recovered - 184506
+     Deaths - 2972
+
+184. Country - Uzbekistan
+     Confirmed - 93176
+     Recovered - 88975
+     Deaths - 657
+
+185. Country - Vanuatu
+     Confirmed - 4
+     Recovered - 3
+     Deaths - 1
+
+186. Country - Venezuela (Bolivarian Republic)
+     Confirmed - 202578
+     Recovered - 185312
+     Deaths - 2226
+
+187. Country - Viet Nam
+     Confirmed - 3090
+     Recovered - 2560
+     Deaths - 35
+
+188. Country - Yemen
+     Confirmed - 6426
+     Recovered - 2971
+     Deaths - 1265
+
+189. Country - Zambia
+     Confirmed - 91946
+     Recovered - 90264
+     Deaths - 1256
+
+190. Country - Zimbabwe
+     Confirmed - 38398
+     Recovered - 36027
+     Deaths - 1575
+
